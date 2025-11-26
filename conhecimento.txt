@@ -1,0 +1,15 @@
+ Horários-Chave
+9h às 11h30: Maior volatilidade, abertura do mercado à vista, influência de dados internos.
+
+11h30 às 12h: Abertura do mercado americano.
+
+14h30 às 15h30: Divulgação de dados dos EUA e impacto no câmbio.
+
+16h00 em diante: Rolagem de contratos e ajuste de posições.
+
+🧠 Sentimento de Mercado
+Índice Dólar (DXY): Se o DXY sobe, geralmente o real perde valor.
+
+S&P500 (Mini S&P): Correlação inversa comum — se o S&P cai, o dólar tende a subir por aversão ao risco.
+
+Taxa de Juros Futuras (DI): Movimentos nos DI’s podem antecipar expectativa de juros e impactar o dólar.
